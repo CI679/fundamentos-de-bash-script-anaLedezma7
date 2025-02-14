@@ -72,4 +72,4 @@ Este proyecto se encuentra alojado en **GitHub Classroom**. Puedes acceder al re
 
 ## Autor
 
-<Coloca aquí tu nombre y matrícula>
+<Ana Sofia Ledezma Diaz 367897>
